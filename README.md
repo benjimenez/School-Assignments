@@ -1,3 +1,2 @@
 # School-Assignments
-Programs made throughout undergrad
-Enjoy
+Programs made throughout undergrad - enjoy
