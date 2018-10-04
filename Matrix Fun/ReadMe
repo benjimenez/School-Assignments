@@ -1,0 +1,6 @@
+Program that i wrote in C that does the following to a dynamic matrix:
+	cout << "1. Print the matrix.\n";
+	cout << "2. Show sum of all of the elements.\n";
+	cout << "3. Show the upper half.\n";
+	cout << "4. Show middle row.\n";
+	cout << "5. Show middle column.\n";
